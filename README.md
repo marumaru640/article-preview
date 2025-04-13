@@ -20,7 +20,7 @@
 
 ### リンク
 
-- Solution URL: [Add solution URL here](https://summary-component-theta-eight.vercel.app/)
+- Solution URL: [Add solution URL here](https://article-preview-five-lake.vercel.app/)
 
 ## 制作プロセス
 
